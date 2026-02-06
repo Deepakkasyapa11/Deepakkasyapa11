@@ -24,19 +24,12 @@
 
 ## 🚀 Featured Projects
 
-### 🎙️ [Doc2VoiceAI - Real-Time Voice RAG]
+### 🎙️ Doc2VoiceAI - Real-Time Voice RAG
 **Voice-native document Q&A using Gemini 2.0 Multimodal Live API**
 -  Sub-200ms latency with streaming audio responses
 -  ElevenLabs voice synthesis + Firestore vector search
 - Datadog observability for TTFT & token burn tracking
 - **Stack:** Gemini 2.0, Firestore, FastAPI, React, ElevenLabs
-
-### [Multi-Agent Swarm Intelligence](link-to-repo)
-**Autonomous task delegation with manager-worker agent patterns**
-- Manager Agent coordinates specialized workers (NL2SQL, Research, Data Analysis)
-- Dynamic intent routing via YAML tool registries
-- Natural language task decomposition & parallel execution
-- **Stack:** Python, Swarm, PostgreSQL, DataCommons API
 
 ### [MarketPulse - Real-Time Financial Sentiment Pipeline]
 **Enterprise-grade streaming pipeline for stock sentiment analysis**
@@ -56,7 +49,8 @@
 
 ## 📝 Technical Writing
 
-**18 Deep-Dive Blog Posts** covering production AI systems: Go check it ---
+**18 Deep-Dive Blog Posts** covering production AI systems: Go check it ---[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://dataandaifanatic.blogspot.com/)
+
 
 
 - [MCP Deep Dive: Universal Connector for LLMs]
@@ -67,7 +61,7 @@
 - [Training on 1TB Datasets with 3GB RAM]
 - [Custom Keras Data Generators]
 
-[📚 **View All 18 Articles →**]([https://dataandaifanatic.blogspot.com])
+[📚 **View All 18 Articles →**](https://dataandaifanatic.blogspot.com)
 
 ---
 
@@ -91,9 +85,9 @@ Docker  • GitHub Actions • CI/CD
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkasyapa11&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkasyapa11&show_icons=true&theme=radical&hideborder=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkasyapa11layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkasyapa11&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepakkasyapa11&theme=radical&hide_border=true)
 
