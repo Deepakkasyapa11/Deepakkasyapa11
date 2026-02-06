@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Deepak kasyapa
 
-**AI Engineer|Data Enthusiast| Generative AI & LLMOps Specialist|**
+**AI Engineer|Data Enthusiast| Generative AI,LLMs & Data Engineering  |**
 
-> Building production-grade AI systems that bridge the gap between LLM capabilities and real-world utility.
-
+Bridging the gap between raw data and commercial impact through robust AI orchestration and scalable data infrastructure."
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://dataandaifanatic.blogspot.com/)
 
