@@ -11,7 +11,7 @@
 
 ## What I Build
 
-**Software Engineer** with 2 years of experience architecting production LLM applications, multi-agent orchestration systems, and enterprise RAG pipelines. Specialized in **LLMOps**, **Generative AI**, and **scalable data infrastructure**.
+**Software Engineer** with 2 years of experience architecting production LLM applications,Data Engineering, and enterprise RAG pipelines. Specialized in **LLMOps**, **Generative AI**, and **scalable data infrastructure**.
 
 **Core Expertise:**
 -  Production Data Engineering (Spark, Kafka, ETL at Scale)
