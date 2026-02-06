@@ -11,14 +11,15 @@
 
 ## What I Build
 
-**AI Systems Engineer** with 2 years of experience architecting production LLM applications, multi-agent orchestration systems, and enterprise RAG pipelines. Specialized in **LLMOps**, **Generative AI**, and **scalable data infrastructure**.
+**Software Engineer** with 2 years of experience architecting production LLM applications, multi-agent orchestration systems, and enterprise RAG pipelines. Specialized in **LLMOps**, **Generative AI**, and **scalable data infrastructure**.
 
 **Core Expertise:**
 - Multi-Agent Systems (Swarm, CrewAI, LangGraph)
+-  Production Data Engineering (Spark, Kafka, ETL at Scale)
 - RAG Architectures (Vector DBs, Hybrid Retrieval, Evaluation)
 - Real-Time AI Pipelines (Streaming, Low-Latency Inference)
 - LLMOps (Prompt Versioning, Cost Tracking, Observability)
--  Production Data Engineering (Spark, Kafka, ETL at Scale)
+
 
 ---
 
