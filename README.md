@@ -79,15 +79,18 @@ PostgreSQL • Redis • DynamoDB • Redshift
 AWS (S3, Lambda, Kinesis, EC2) • GCP (Cloud Run, Firestore)
 
 **Backend & APIs:**
-Python (FastAPI, Flask) • Node.js • TypeScript
+
+ Python (FastAPI, Flask) • Node.js • TypeScript
 Docker  • GitHub Actions • CI/CD
+
 ---
 
 ## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepakkasyapa11&show_icons=true&theme=radical&hideborder=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkasyapa11&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepakkasyapa11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkasyapa11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepakkasyapa11&theme=radical&hide_border=true)
 
