@@ -2,7 +2,7 @@
 
 **AI Engineer|Data Enthusiast| Generative AI,LLMs & Data |Deep learning->Artificial Neural Nets |**
 
-Bridging the gap between raw data and commercial impact through robust AI orchestration and scalable data infrastructure."
+Building production-grade AI systems by combining scalable data engineering, MLOps, and LLMOps practices to transform raw data into reliable, observable, and commercially impactful intelligence.
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://dataandaifanatic.blogspot.com/)
 
