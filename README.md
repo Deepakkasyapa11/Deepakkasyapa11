@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepak kasyapa
 
-**AI Engineer|Data Enthusiast| Generative AI,LLMs & Data |**
+**AI Engineer|Data Enthusiast| Generative AI,LLMs & Data |Deep learning->Artificial Neural Nets |**
 
 Bridging the gap between raw data and commercial impact through robust AI orchestration and scalable data infrastructure."
 
