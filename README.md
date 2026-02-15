@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Deepak kasyapa
 
-**AI Engineer|Data Enthusiast| Generative AI,LLMs & Data |Deep learning->Artificial Neural Nets |**
+**AI Engineer|Data Enthusiast| Generative AI,LLMs & Data| MLops |Deep learning->Artificial Neural Nets |**
 
-Building production-grade AI systems by combining scalable data engineering, MLOps, and LLMOps practices to transform raw data into reliable, observable, and commercially impactful intelligence.
+Building production- AI systems by combining scalable data engineering, MLOps, and LLMOps practices to transform raw data into reliable, observable, and commercially impactful intelligence.
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white)](https://dataandaifanatic.blogspot.com/)
 
